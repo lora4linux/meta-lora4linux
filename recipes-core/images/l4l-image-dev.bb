@@ -10,3 +10,7 @@ IMAGE_FEATURES += " \
     serial-autologin-root \
     ssh-server-openssh \
 "
+
+CORE_IMAGE_EXTRA_INSTALL = " \
+    l4l-modules \
+"
