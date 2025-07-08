@@ -13,4 +13,5 @@ IMAGE_FEATURES += " \
 
 CORE_IMAGE_EXTRA_INSTALL = " \
     l4l-modules \
+    l4l-overlays \
 "
